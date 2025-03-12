@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JooX-cmd
+-🚀 Learn about pentesting techniques, tools, and methodologies.
+-🛠️ Get guidance on real-world security assessments and CTF challenges.
+-💡 Explore how robotics and cybersecurity intersect (e.g., hacking IoT devices, securing autonomous systems).
+-🤝 Find collaborators to work on cool projects and cybersecurity research.
