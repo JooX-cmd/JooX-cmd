@@ -70,38 +70,38 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" /><br><br>
+
+<!-- Stats and Streak side by side -->
+<a href="https://github.com/JooX-cmd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
+</a>
+<a href="https://github.com/JooX-cmd">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=JooX-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</a>
+
+<br><br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%" />
 
 </div>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JooX-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</p>
 
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> Featured Projects
 
 <div align="center">
-  
-<a href="https://github.com/JooX-cmd/smart-parking-esp32">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=smart-parking-esp32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/JooX-cmd/arabic-english-nmt">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=arabic-english-nmt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/JooX-cmd/telco-churn-classification">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=telco-churn-classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/JooX-cmd/used-cars-price-prediction">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=used-cars-price-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚗 [**Smart Parking ESP32**](https://github.com/JooX-cmd/smart-parking-esp32) | IoT parking system with FreeRTOS, Web Dashboard & Telegram Bot | ESP32, FreeRTOS, C++ |
+| 🌍 [**Arabic-English NMT**](https://github.com/JooX-cmd/arabic-english-nmt) | Neural Machine Translation using Transformers | PyTorch, NLP |
+| 📞 [**Telco Churn Classification**](https://github.com/JooX-cmd/telco-churn-classification) | Predict customer churn with ML models | Scikit-learn, Python |
+| 🚙 [**Used Cars Price Prediction**](https://github.com/JooX-cmd/used-cars-price-prediction) | Regression model to predict car prices | Random Forest, Python |
+| 🛒 [**Customer Segmentation**](https://github.com/JooX-cmd/online-retail-segmentation) | Clustering customers with K-Means & DBSCAN | Unsupervised ML |
 
 </div>
 
