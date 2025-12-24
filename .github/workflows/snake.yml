@@ -11,12 +11,17 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -27,10 +32,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: actions/upload-artifact@v3
         with:
-          target_branch: output
-          build_dir: dist
-          fqdn: github.com
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: snake-artifact
+          path: dist/
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/ || true
+          git commit -m "🐍 Update snake contribution graph" || true
+          git push origin output || git push -u origin output --allow-unrelated-histories || true
+        continue-on-error: true
