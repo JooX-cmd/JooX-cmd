@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohammed+(Joox);IoT+%26+AI+Developer;CS+Student+%40+Helwan+University;Building+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Joox;IoT+%26+AI+Developer;CS+Student+%40+Helwan+University;Building+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ```python
 class Joox:
     def __init__(self):
-        self.name = "Mohammed"
+        self.name = "Joox"
         self.role = "IoT & AI Developer"
         self.company = "VoltX"
         self.education = "CS @ Helwan University '27"
