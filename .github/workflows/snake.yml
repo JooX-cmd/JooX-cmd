@@ -1,12 +1,12 @@
-# This workflow generates the snake contribution graph
+# Fixed Snake Animation Workflow
 # Place this file in: .github/workflows/snake.yml
 
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:      # Manual trigger
   push:
     branches:
       - main
@@ -20,28 +20,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: actions/upload-artifact@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: snake-artifact
-          path: dist/
-
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add dist/ || true
-          git commit -m "🐍 Update snake contribution graph" || true
-          git push origin output || git push -u origin output --allow-unrelated-histories || true
-        continue-on-error: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
