@@ -16,7 +16,7 @@
 - 🎓 **CS Student** at Helwan University (Class of 2027)
 - 🤖 I build **Smart IoT Systems** & **Machine Learning** solutions
 - 🧠 Learning **Transformers**, **Deep Learning** & **NLP**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **Yousef.Ibrahim.2230238@CIT.hnu.edu.eg**
 - ⚡ Fun fact: **I turn coffee into code!**
 
 <br>
@@ -69,20 +69,20 @@
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" /><br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%" alt="Trophy" /><br><br>
 
-<!-- Stats and Streak side by side -->
-<a href="https://github.com/JooX-cmd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
-</a>
-<a href="https://github.com/JooX-cmd">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=JooX-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</a>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+
+<br><br>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=JooX-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 <br><br>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 </div>
 
