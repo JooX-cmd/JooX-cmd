@@ -64,16 +64,27 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
+## 🔥 GitHub Stats
 
 <div align="center">
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats">
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JooX-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
+<a href="https://github.com/JooX-cmd">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=JooX-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JooX-cmd&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
 </div>
 
 <br>
