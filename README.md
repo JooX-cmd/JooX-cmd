@@ -68,24 +68,12 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&line_height=24">
-</picture>
-
+<img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24" alt="GitHub Stats">
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JooX-cmd&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JooX-cmd&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 <br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 <br>
