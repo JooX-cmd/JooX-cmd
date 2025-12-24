@@ -68,19 +68,19 @@
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=JooX-cmd&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=JooX-cmd&theme=chartreuse-dark&hide_border=false&border_radius=10" alt="GitHub Streak Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=chartreuse-dark&hide_border=false&count_private=false&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=10" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4&column=4&border_radius=10" alt="GitHub Trophies"/>
 
 </div>
 
