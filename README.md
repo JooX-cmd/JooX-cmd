@@ -68,42 +68,6 @@ class Joox:
   <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,arduino,linux,git,docker,vscode,github,mysql&perline=6" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JooX-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="40%" alt="Top Languages"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/JooX-cmd/smart-parking-esp32">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=smart-parking-esp32&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-  <a href="https://github.com/JooX-cmd/telco-churn-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=telco-churn-classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JooX-cmd/used-cars-price-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=used-cars-price-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-  <a href="https://github.com/JooX-cmd/online-retail-segmentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JooX-cmd&repo=online-retail-segmentation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
