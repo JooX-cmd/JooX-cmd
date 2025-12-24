@@ -68,21 +68,23 @@
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%" alt="Trophy" /><br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+<br>
 
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&line_height=24">
+</picture>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=JooX-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<br>
 
-<br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JooX-cmd&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
 
 </div>
 
