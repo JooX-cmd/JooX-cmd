@@ -25,6 +25,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/joox/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
 <br>
 
@@ -70,34 +71,6 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=JooX-cmd&theme=chartreuse-dark&hide_border=false&border_radius=10" alt="GitHub Streak Stats"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JooX-cmd&show_icons=true&theme=chartreuse-dark&hide_border=false&count_private=false&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooX-cmd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=10" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JooX-cmd&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4&column=4&border_radius=10" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚗 [**Smart Parking ESP32**](https://github.com/JooX-cmd/smart-parking-esp32) | IoT parking system with FreeRTOS, Web Dashboard & Telegram Bot | ESP32, FreeRTOS, C++ |
-| 🌍 [**Arabic-English NMT**](https://github.com/JooX-cmd/arabic-english-nmt) | Neural Machine Translation using Transformers | PyTorch, NLP |
-| 📞 [**Telco Churn Classification**](https://github.com/JooX-cmd/telco-churn-classification) | Predict customer churn with ML models | Scikit-learn, Python |
-| 🚙 [**Used Cars Price Prediction**](https://github.com/JooX-cmd/used-cars-price-prediction) | Regression model to predict car prices | Random Forest, Python |
-| 🛒 [**Customer Segmentation**](https://github.com/JooX-cmd/online-retail-segmentation) | Clustering customers with K-Means & DBSCAN | Unsupervised ML |
-
 </div>
 
 <br>
@@ -120,18 +93,6 @@
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/JooX-cmd/JooX-cmd/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Support
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
 
 </div>
 
